@@ -1,1 +1,1 @@
-![My Image](Waves.jpg)
+![Waves](./waves.jpg)
