@@ -1,1 +1,1 @@
-![Walking Animation](./tech.gif)
+![My Image](Waves.jpg)
