@@ -1,1 +1,1 @@
-![Walking Animation](./WalkingMan.mp4)
+![Walking Animation](./WalkingMan.gif)
