@@ -1,2 +1,2 @@
 
-![Waves](./waves.jpg)
+![Hero](./hero.jpg)
