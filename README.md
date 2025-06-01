@@ -9,16 +9,6 @@
 <p align="center">
   <em>Computer Engineering student | Pythonista | ML Enthusiast | GSoC '25 @ IOOS | UI/UX Explorer</em>
 </p>
-
-<p align="center">
-  <a href="https://github.com/aasimkhan02">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&label=Profile%20Views&color=00bfff&logo=github" />
-  </a>
-  <a href="https://github.com/aasimkhan02?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&label=Followers&color=blue&logo=github" />
-  </a>
-</p>
-
 ---
 
 ### 💫 About Me
