@@ -64,9 +64,10 @@
 
 <p align="center">
   <a href="https://github.com/aasimkhan02/Healthwave">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=yourproject1&theme=tokyonight" />
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=Healthwave&theme=tokyonight" />
   </a>
   <a href="https://github.com/aasimkhan02/ModelHQ">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=yourproject2&theme=tokyonight" />
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=ModelHQ&theme=tokyonight" />
   </a>
 </p>
+
