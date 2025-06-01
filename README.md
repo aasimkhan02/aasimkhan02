@@ -23,7 +23,6 @@
 
 
 ### 📫 Connect With Me
-
 <p align="center" style="display: flex; justify-content: center; gap: 25px;">
   <a href="mailto:aasimkroc@gmail.com" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" />
@@ -34,10 +33,17 @@
   <a href="https://open.spotify.com/user/31oz2fgq7kfljx4d2xgvf7e4yuem" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
     <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" />
   </a>
+  <a href="https://leetcode.com/u/Aasim_Khan/" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
+    <img width="50px" src="https://leetcode.com/favicon.ico" alt="LeetCode" />
+  </a>
+  <a href="https://www.instagram.com/aasim.khan08/" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
+    <img width="50px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" />
+  </a>
   <a href="https://aasimkhan02.github.io/Aasim-Portfolio/" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
     <img width="50px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
   </a>
 </p>
+
 
 
 ---
