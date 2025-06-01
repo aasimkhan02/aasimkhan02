@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=aasimkhan02&count_private=true&show_icons=true&theme=tokyonight" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasimkhan02&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -63,26 +63,10 @@
 ### 🛠 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourproject1">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1&theme=tokyonight" />
+  <a href="https://github.com/aasimkhan02/Healthwave">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=yourproject1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yourusername/yourproject2">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2&theme=tokyonight" />
+  <a href="https://github.com/aasimkhan02/ModelHQ">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=yourproject2&theme=tokyonight" />
   </a>
-</p>
-
----
-
-### 💸 Support Me
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourhandle">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer"/>
-
-<p align="center">
-  ⚠️ This README is uniquely styled by <strong>Khan Mohd Aasim</strong>.
 </p>
