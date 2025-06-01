@@ -1,9 +1,7 @@
-<!-- Wavy Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
 
 <!-- Hero Image -->
 <p align="center">
-  <img src="./hero.jpg" width="200" alt="Hero Image" style="border-radius: 50%">
+  <img src="./hero.jpg" width="100%" alt="Hero Image" style="border-radius: 50%">
 </p>
 
 <h1 align="center">Hi! I'm Khan Mohd Aasim 👋</h1>
