@@ -6,7 +6,7 @@
   I'm a Computer Engineering student who's super passionate about software engineering and machine learning. I'm pretty good with Python and love creating cool, creative UI/UX designs that people enjoy using. I'm also an open source contributor and currently part of Google Summer of Code with the IOOS organization. I'm all about learning new things, building fun projects, and growing as a developer while working with awesome communities.
 </p>
 
-<div style="display: inline-block; width: 60%; vertical-align: top; padding-right: 20px;">
+<div style="display: inline-block; width: 10%; vertical-align: top; padding-right: 20px;">
 
 <h2>💫 About Me</h2>
 <p>🌱 I'm currently pursuing a degree in Computer Engineering and actively sharpening my programming skills every day.</p>
