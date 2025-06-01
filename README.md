@@ -45,8 +45,9 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-   <img src="https://skillicons.dev/icons?i=python,react,git,js,django,mysql,tensorflow,cp,html,css,fastapi,numpy,pandas,r" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,django,tensorflow,mysql,git,linux,fastapi,R" alt="Major Skills" />
 </p>
+
 
 ---
 
