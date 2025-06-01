@@ -21,15 +21,15 @@
 
 ---
 
-<img align="right" alt="Khan Mohd Aasim" height="250" src="https://github.com/aasimkhan02/aasimkhan02/raw/main/Computer.jpg"/>
-
 
 ### 📫 Connect With Me
 
+<p align="center">
 <a href="mailto:your.email@example.com"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/your-linkedin/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/></a>
 <a href="https://open.spotify.com/"><img width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify"/></a>
 <a href="https://your-portfolio-link.com"><img width="40px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio"/></a>
+</p>
 
 ---
 
