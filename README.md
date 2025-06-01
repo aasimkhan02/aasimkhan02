@@ -18,5 +18,5 @@
 </div>
 
 <div style="display: inline-block; width: 35%; vertical-align: top;">
-  <img src="./Computer.jpg" width="100%" style="border-radius: 12px;" alt="Computer Image">
+  <img src="./Computer.jpg" width="10%" style="border-radius: 12px;" alt="Computer Image">
 </div>
