@@ -6,10 +6,10 @@
   I'm a Computer Engineering student who's super passionate about software engineering and machine learning. I'm pretty good with Python and love creating cool, creative UI/UX designs that people enjoy using. I'm also an open source contributor and currently part of Google Summer of Code with the IOOS organization. I'm all about learning new things, building fun projects, and growing as a developer while working with awesome communities.
 </p>
 
-<!-- Side-by-side layout using invisible table -->
-<table style="border: none;">
+<!-- Side-by-side layout using a minimal, borderless table -->
+<table>
   <tr>
-    <td style="border: none; vertical-align: top; width: 60%; padding-right: 20px;">
+    <td style="vertical-align: top; width: 60%; padding-right: 20px;">
       <h2>💫 About Me</h2>
       <p>🌱 I'm currently pursuing a degree in Computer Engineering and actively sharpening my programming skills every day.</p>
       <p>🔭 Experienced in Python, I'm passionate about software engineering and diving deep into Machine Learning.</p>
@@ -17,7 +17,7 @@
       <p>⚡ In my free time, I enjoy crafting creative UI/UX designs and building AI-powered software that solves real problems.</p>
       <p>✨ I strongly believe in creativity, continuous learning, and always pushing myself to achieve perfection in everything I do.</p>
     </td>
-    <td style="border: none; vertical-align: top; width: 40%;">
+    <td style="vertical-align: top; width: 40%;">
       <img src="./Computer.jpg" alt="Computer" width="100%" style="border-radius: 12px;">
     </td>
   </tr>
