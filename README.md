@@ -24,12 +24,21 @@
 
 ### 📫 Connect With Me
 
-<p align="center">
-<a href="mailto:aasimkroc@gmail.com"><img width="80px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail"/></a>
-<a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mohd-aasim-khan-2b9478285/)"><img width="80px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"/></a>
-<a href="[https://open.spotify.com/](https://open.spotify.com/user/31oz2fgq7kfljx4d2xgvf7e4yuem)"><img width="80px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify"/></a>
-<a href="[https://your-portfolio-link.com](https://aasimkhan02.github.io/Aasim-Portfolio/)"><img width="80px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio"/></a>
+<p align="center" style="display: flex; justify-content: center; gap: 25px;">
+  <a href="mailto:aasimkroc@gmail.com" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohd-aasim-khan-2b9478285/" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" />
+  </a>
+  <a href="https://open.spotify.com/user/31oz2fgq7kfljx4d2xgvf7e4yuem" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
+    <img width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" alt="Spotify" />
+  </a>
+  <a href="https://aasimkhan02.github.io/Aasim-Portfolio/" target="_blank" style="background: white; padding: 12px; border-radius: 12px; display: inline-block;">
+    <img width="40px" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" />
+  </a>
 </p>
+
 
 ---
 
