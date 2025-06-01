@@ -1,10 +1,11 @@
-
 ![Hero](./hero.jpg)
 
 <h1 align="center">Hi! I'm Khan Mohd Aasim</h1>
-</hr>
-<p align="center">I’m a Computer Engineering student who’s super passionate about software engineering and machine learning. I’m pretty good with Python and love creating cool, creative UI/UX designs that people enjoy using. I’m also an open source contributor and currently part of Google Summer of Code with the IOOS organization. I’m all about learning new things, building fun projects, and growing as a developer while working with awesome communities.
+<hr>
+<p align="center">
+I’m a Computer Engineering student who’s super passionate about software engineering and machine learning. I’m pretty good with Python and love creating cool, creative UI/UX designs that people enjoy using. I’m also an open source contributor and currently part of Google Summer of Code with the IOOS organization. I’m all about learning new things, building fun projects, and growing as a developer while working with awesome communities.
 </p>
+
 <table>
   <tr>
     <td>
@@ -16,7 +17,7 @@
       <p>✨ I strongly believe in creativity, continuous learning, and always pushing myself to achieve perfection in everything I do.</p>
     </td>
     <td>
-      ![Computer](./Computer.jpg)
+      <img src="./Computer.jpg" width="250" style="margin-left: 20px; border-radius: 12px;" alt="Computer Image">
     </td>
   </tr>
 </table>
