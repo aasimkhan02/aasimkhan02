@@ -4,7 +4,7 @@
   <img src="./hero.jpg" width="100%" alt="Hero Image" style="border-radius: 50%">
 </p>
 
-<h1 align="center">Hello! I'm Khan Mohd Aasim 👋</h1>
+<h1 align="center">Hi! I'm Khan Mohd Aasim 👋</h1>
 
 <p align="center">
   <em>Computer Engineering student | Pythonista | ML Enthusiast | GSoC '25 @ IOOS | UI/UX Explorer</em>
