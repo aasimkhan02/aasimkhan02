@@ -21,6 +21,11 @@
 
 ---
 
+### 🏆 Google Summer of Code 2025
+Contributing to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project  
+🔗 [Project Link](https://github.com/phytoclass/phytoclass) | ⏱ 90-hour contributor | 🌊 Ocean Observing
+
+---
 
 ### 📫 Connect With Me
 <p align="center" style="display: flex; justify-content: center; gap: 25px;">
@@ -54,6 +59,11 @@
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,django,tensorflow,mysql,git,linux,fastapi,R" alt="Major Skills" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasimkhan02&theme=tokyonight" />
+</p>
 
 ---
 
