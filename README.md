@@ -56,7 +56,7 @@ Contributing to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 ### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,django,tensorflow,mysql,git,linux,fastapi,R" alt="Major Skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,react,django,tensorflow,mysql,git,linux,fastapi,R" alt="Major Skills" />
 </p>
 
 ---
