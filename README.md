@@ -7,7 +7,7 @@
 <h1 align="center">Hi! I'm Khan Mohd Aasim 👋</h1>
 
 <p align="center">
-  <em>Software Developer | Python Developer | ML Enthusiast | GSoC '25 @ IOOS | UI/UX Designer</em>
+  <em>Software Developer | GSoC '25 @ IOOS | Python Developer | ML Enthusiast | UI/UX Designer</em>
 </p>
 
 ### 💫 About Me
