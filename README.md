@@ -15,14 +15,14 @@
 - 🎓 I'm currently pursuing a degree in Computer Engineering.
 - 🐍 Python is my strongest skill – from backend work to machine learning.
 - 🤖 Deeply interested in AI, and I build real-world ML-based tools.
-- 🌍 Open source contributor, currently part of **Google Summer of Code '25** with **IOOS**.
+- 🌍 Open source contributor, Completed **Google Summer of Code '25** with **IOOS**.
 - 🎨 I enjoy designing beautiful, intuitive UI/UX and meaningful software.
 - 🚀 Always learning, always building, always exploring.
 
 ---
 
 ### 🏆 Google Summer of Code 2025
-Contributing to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project  
+Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project  
 🔗 [Project Link](https://github.com/phytoclass/phytoclass) | ⏱ 90-hour contributor | 🌊 Ocean Observing
 
 ---
