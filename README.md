@@ -82,7 +82,7 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
   <a href="https://github.com/aasimkhan02/Healthwave">
     <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=Healthwave&theme=tokyonight" />
   </a>
-  <a href="https://github.com/aasimkhan02/ModelHQ">
+  <a href="https://github.com/aasimkhan02/EVUA">
     <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=ModelHQ&theme=tokyonight" />
   </a>
 </p>
