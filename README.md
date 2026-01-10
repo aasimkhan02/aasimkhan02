@@ -61,22 +61,17 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Impact
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasimkhan02&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasimkhan02&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aasimkhan02&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aasimkhan02&theme=tokyonight" />
+  <img src="https://img.shields.io/github/commit-activity/y/aasimkhan02?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/aasimkhan02?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/aasimkhan02?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasimkhan02&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aasimkhan02&theme=tokyonight&utcOffset=5.5" />
-</p>
-
 
 
 ---
