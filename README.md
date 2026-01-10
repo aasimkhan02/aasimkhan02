@@ -61,18 +61,22 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasimkhan02&theme=tokyo-night&hide_border=true" />
-</p>
-
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasimkhan02&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aasimkhan02&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aasimkhan02&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aasimkhan02&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aasimkhan02&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aasimkhan02&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 
 
 ---
@@ -98,11 +102,5 @@ Centralized hub for managing, evaluating, and deploying ML models efficiently.
 - 🚀 Deployment-ready architecture
 
 🔗 **Repo:** https://github.com/aasimkhan02/ModelHQ
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/aasimkhan02/Healthwave?style=flat-square" />
-  <img src="https://img.shields.io/github/last-commit/aasimkhan02/Healthwave?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/aasimkhan02/Healthwave?style=flat-square" />
-</p>
 
 
