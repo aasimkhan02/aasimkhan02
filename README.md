@@ -70,9 +70,9 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=aasimkhan02&count_private=true&show_icons=true&theme=tokyonight" />
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasimkhan02&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasimkhan02&theme=tokyo-night" />
 </p>
+
 
 ---
 
