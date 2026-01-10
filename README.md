@@ -62,8 +62,9 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasimkhan02&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasimkhan02&theme=tokyo-night&hide_border=true" />
 </p>
+
 
 ---
 
@@ -78,12 +79,30 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 
 ### 🛠 Featured Projects
 
+#### 🔹 Healthwave
+AI-powered healthcare analytics platform focused on predictive insights and patient data processing.
+
+- 🧠 Machine Learning
+- 🐍 Python · FastAPI · TensorFlow
+- 📊 Data-driven healthcare insights
+
+🔗 **Repo:** https://github.com/aasimkhan02/Healthwave
+
+---
+
+#### 🔹 ModelHQ
+Centralized hub for managing, evaluating, and deploying ML models efficiently.
+
+- 🤖 ML Model Management
+- ⚙️ Python · Django · REST APIs
+- 🚀 Deployment-ready architecture
+
+🔗 **Repo:** https://github.com/aasimkhan02/ModelHQ
+
 <p align="center">
-  <a href="https://github.com/aasimkhan02/Healthwave">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=Healthwave&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aasimkhan02/EVUA">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=aasimkhan02&repo=ModelHQ&theme=tokyonight" />
-  </a>
+  <img src="https://img.shields.io/github/stars/aasimkhan02/Healthwave?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/aasimkhan02/Healthwave?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/aasimkhan02/Healthwave?style=flat-square" />
 </p>
+
 
