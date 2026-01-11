@@ -76,26 +76,4 @@ Contributed to [IOOS](https://ioos.noaa.gov/) under the PhytoClass project
 
 ---
 
-### 🛠 Featured Projects
-
-#### 🔹 Healthwave
-AI-powered healthcare analytics platform focused on predictive insights and patient data processing.
-
-- 🧠 Machine Learning
-- 🐍 Python · FastAPI · TensorFlow
-- 📊 Data-driven healthcare insights
-
-🔗 **Repo:** https://github.com/aasimkhan02/Healthwave
-
----
-
-#### 🔹 ModelHQ
-Centralized hub for managing, evaluating, and deploying ML models efficiently.
-
-- 🤖 ML Model Management
-- ⚙️ Python · Django · REST APIs
-- 🚀 Deployment-ready architecture
-
-🔗 **Repo:** https://github.com/aasimkhan02/ModelHQ
-
 
